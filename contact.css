@@ -1,4 +1,12 @@
 body {
     box-sizing: border-box;
-    background-color: pink;
+    background-color: rgb(19, 19, 73);
+    color: white;
+    font-family: 'Oswald', sans-serif;
+}
+
+button {
+    font-family: 'Oswald', sans-serif;
+    color: yellow;
+    background-color:rgb(39, 39, 93) ;
 }

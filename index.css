@@ -6,7 +6,7 @@ img{
     border-radius: 10px;
 }
 #header{
-    border:2px solid black;
+   border:2px solid black;
    border-radius: 10px;
    text-align: center;
    font-family: Arial, Helvetica, sans-serif;
@@ -26,8 +26,22 @@ img{
    color: white;
    background-color:rgb(19, 19, 73);
 
-
 }
+#link{
+   
+    border:2px solid black;
+    border-radius: 10px;
+    text-align: center;
+   
+   
+    background-color:rgb(19, 19, 73);
+    }
+    a{
+        text-decoration:none;
+        color: yellow;
+         font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    }
 footer{
     text-align: center;
     border:2px solid black;

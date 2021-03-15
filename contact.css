@@ -5,6 +5,13 @@ body {
     font-family: 'Oswald', sans-serif;
 }
 
+fieldset {
+    width: 400px;
+    height: 500px;
+    margin: auto;
+    margin-top: 50px;
+}
+
 button {
     font-family: 'Oswald', sans-serif;
     color: yellow;
